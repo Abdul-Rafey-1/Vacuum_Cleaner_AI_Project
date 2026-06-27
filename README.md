@@ -31,4 +31,4 @@ Make sure you have Python installed on your device. Tkinter comes bundled with s
 Evaluation Metrics
 When reviewing performance markers via the user interface:
 Efficiency: The Breadth First Search Agent completes cleanup workflows with significantly fewer steps by finding shortest paths across the grid.
-Redundancy: The Random Walk Agent experiences regular re tracking loops over clean cells, highlighting why systematic pathfinding is crucial for autonomous robotics.
+Redundancy: The Random Walk Agent experiences regular re tracking loops over clean cells, highlighting why systematic pathfinding is crucial for autonomous robotics.  
